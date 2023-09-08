@@ -58,7 +58,7 @@ body{
 }
 
 .RHS-img{
-    background-image: linear-gradient(0deg, hsla(277, 95%, 23%, 0.500), hsla(277, 95%, 29%, 0.500)), url(https://i.postimg.cc/6QwLFN0h/image-header-desktop.jpg);
+    background-image: linear-gradient(0deg, hsla(277, 95%, 23%, 0.500), hsla(277, 95%, 29%, 0.500)), url(/Assignments/images/image-header-desktop.jpg);
     background-size: cover;
     background-position: center;
     width: 30rem;
